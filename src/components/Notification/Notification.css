@@ -1,0 +1,9 @@
+.notification__text {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 25px 0 30px 0;
+    color: #afacac;
+    font-size: 14px;
+    font-weight: bold;
+  }
